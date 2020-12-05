@@ -1,3 +1,5 @@
 git1
 line2
 line3
+.git add
+.git commit
